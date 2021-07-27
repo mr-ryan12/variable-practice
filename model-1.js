@@ -7,4 +7,4 @@ var howManyLives = 1;
 var isFluffy = true;
 var isEatingMyCouch = true;
 var isHungry = false;
-
+var toys = ['squeeky fish', 'a big rope', 'sticks n stuff'];
