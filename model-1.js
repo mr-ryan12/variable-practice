@@ -11,7 +11,7 @@ var isEatingMyCouch = true;
 var isHungry = false;
 
 var toys = ['squeeky fish', 'a big rope', 'sticks n stuff'];
-var food = ['treats', 'chicken thigs', 'all natural crunchies'];
+var food = ['treats', 'chicken thighs', 'all natural crunchies'];
 var hobbies = ['napping', 'eating', 'barking at squirrels']
 
 var dog = {
