@@ -66,7 +66,7 @@ var car = {
     miles: 143000,
     isTurnedOn: false,
     needsOilChange: false,
-    issues: ['slow leak in passenger front tire', 'paint peeling', 'cracked windsheild', 'dents everywhere', 'cd player broken'],
+    issues: ['slow leak in passenger front tire', 'paint peeling', 'cracked windsheild', 'dents everywhere', 'broken cd player'],
     isPathetic: true,
 
     turnEngineOn(engine) {
