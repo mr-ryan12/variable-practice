@@ -4,7 +4,7 @@ var size = 'Large';
 
 var age = 2;
 var numOfToys = 3;
-var howManyLives = 1;
+var numOfLives = 1;
 
 var isFluffy = true;
 var isEatingMyCouch = true;
